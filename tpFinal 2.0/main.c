@@ -484,7 +484,8 @@ void mostrarUnPartido(nodoPartido* partido)
             printf("  %s\t",partido->partido.fecha);
             printf("%s",partido->partido.equipo1->nomEquipo);
             printf(" VS ");
-            printf("%s\n\n",partido->partido.equipo2->nomEquipo);
+            printf("%s\n",partido->partido.equipo2->nomEquipo);
+            printf("                                      %i - %i\n\n",partido->partido.golesEq1,partido->partido.golesEq2);
 
             partido = partido->siguiente;
         }
