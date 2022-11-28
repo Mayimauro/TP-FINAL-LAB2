@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1669481873 source:c:\users\mayim\desktop\tpfinal 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1669481873 source:c:\users\mayim\desktop\nueva carpeta\tpfinal 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1669600523 source:d:\sistema operativo\aa.tp.autocad.codeblocks\codeblocks\tpfinal 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
